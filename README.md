@@ -21,7 +21,9 @@
   
 </div>
 
-![Snake animation](https://github.com/railenecunha/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/railenecunha/output/github-contribution-grid-snake.gif)
+
+
 
 
 
